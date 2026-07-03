@@ -1,0 +1,10 @@
+.vs*
+*.o
+dep/*
+ext/*
+dist/*
+OsirisEdit
+autosave.dat
+ui.dat
+!dep/Makefile
+ 
